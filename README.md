@@ -1,3 +1,4 @@
+ HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# social_midia-rubyOnRails
+3e48124c34c942a7f803a5d35c85e42c762ef25d
